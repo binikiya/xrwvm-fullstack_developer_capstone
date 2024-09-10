@@ -124,3 +124,9 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.vl {
+  border-left: 3px solid black;
+  height: 250px;
+  margin: 10px 0 0 80px;
+}
